@@ -1,0 +1,22 @@
+name: gdd-dl
+channels:
+  - defaults
+dependencies:
+- python=3.8
+- ipykernel
+- jupyter
+- jupyterlab
+#- jupytext
+- matplotlib
+- nb_conda_kernels
+- notebook
+- numpy=1.19
+- pandas
+- pip
+- RISE
+- scikit-learn
+- seaborn
+- scipy
+- statsmodels
+- pip:
+    - tensorflow

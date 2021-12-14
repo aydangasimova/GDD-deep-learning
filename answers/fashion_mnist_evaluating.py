@@ -1,0 +1,1 @@
+model.evaluate(test_datagen.flow(X_test, y_test_onehot, batch_size=10000))

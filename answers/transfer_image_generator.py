@@ -1,0 +1,1 @@
+train_datagen = image.ImageDataGenerator(rescale=1.0 / 255, fill_mode="k",)
